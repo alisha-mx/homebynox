@@ -6,6 +6,7 @@ import { SUPPORTED_LOCALES, DEFAULT_LOCALE } from './data/navigation.js'
 import Navbar from './components/Navbar.jsx'
 import Footer from './components/Footer.jsx'
 import LanguageBanner from './components/LanguageBanner.jsx'
+import ScrollToTop from './components/ScrollToTop.jsx'
 
 import Home         from './routes/Home.jsx'
 import Interiors    from './routes/Interiors.jsx'
@@ -25,6 +26,7 @@ function LocaleLayout() {
   }
   return (
     <>
+      <ScrollToTop />
       <Navbar />
       <main><Outlet /></main>
       <Footer />
