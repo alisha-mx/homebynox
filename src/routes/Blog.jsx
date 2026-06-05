@@ -44,7 +44,7 @@ export default function Blog() {
       <header ref={heroRef} className="relative h-screen min-h-[600px] overflow-hidden">
         <motion.div className="absolute inset-0 will-change-transform" style={{ y: heroY, scale: heroScale }}>
           <img
-            src="/images/interior-roses.png"
+            src="images/interior-roses.png"
             alt=""
             className="absolute inset-0 w-full h-full object-cover object-center"
             style={{ imageRendering: 'high-quality' }}
@@ -175,7 +175,7 @@ export default function Blog() {
             <motion.div variants={fadeUp} className="col-span-12 md:col-span-7 md:col-start-6 order-1 md:order-2 group cursor-pointer">
               <div className="aspect-video overflow-hidden">
                 <img
-                  src="/images/interior-roses.png"
+                  src="images/interior-roses.png"
                   alt={t('blog.posts.historic.title')}
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.03]"
                 />
@@ -193,9 +193,9 @@ export default function Blog() {
             </div>
           <div className="grid grid-cols-12 gap-8">
             {[
-              { key: 'france',    img: '/images/gallery-6.jpg' },
-              { key: 'makeover',  img: '/images/gallery-3.jpg',  offset: true },
-              { key: 'wallpapers',img: '/images/wallpaper.jpg' },
+              { key: 'france',    img: 'images/gallery-6.jpg' },
+              { key: 'makeover',  img: 'images/gallery-3.jpg',  offset: true },
+              { key: 'wallpapers',img: 'images/wallpaper.jpg' },
             ].map(({ key, img, offset }) => (
               <motion.div
                 key={key}

@@ -124,7 +124,7 @@ export default function VillaV() {
       <header ref={heroRef} className="relative h-screen min-h-[600px] overflow-hidden">
         <motion.div className="absolute inset-0 will-change-transform" style={{ y: heroY, scale: heroScale }}>
           <img
-            src="/images/drone.png"
+            src="images/drone.png"
             alt=""
             className="absolute inset-0 w-full h-full object-cover object-center"
             style={{ imageRendering: 'high-quality' }}
@@ -208,7 +208,7 @@ export default function VillaV() {
             <motion.div variants={fadeUp} className="lg:col-span-7 relative">
               <div className="aspect-[4/5] overflow-hidden">
                 <img
-                  src="/images/gallery-5.jpg"
+                  src="images/gallery-5.jpg"
                   alt="Villa V"
                   className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
                 />
@@ -221,7 +221,7 @@ export default function VillaV() {
         {/* ── VIDEO SECTION ── */}
         <Section className="bg-ink py-32 md:py-40 relative overflow-hidden">
           <div className="absolute inset-0 opacity-40">
-            <img src="/images/villa-v-pool.png" alt="" className="w-full h-full object-cover blur-sm" />
+            <img src="images/villa-v-pool.png" alt="" className="w-full h-full object-cover blur-sm" />
           </div>
           <motion.div variants={fadeUp} className="relative z-10 max-w-3xl mx-auto text-center px-6">
             <a
@@ -255,13 +255,13 @@ export default function VillaV() {
             <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-start">
               <motion.div variants={fadeUp} className="md:col-span-8 group cursor-pointer">
                 <div className="aspect-video overflow-hidden mb-4">
-                  <img src="/images/img-1253.jpg" alt={t('villaV.gallery.feature.title')} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
+                  <img src="images/img-1253.jpg" alt={t('villaV.gallery.feature.title')} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
                 </div>
                 <h4 className="font-serif text-xl text-ink mb-1">{t('villaV.gallery.feature.title')}</h4>
                 <p className="font-sans text-[10px] tracking-widest uppercase text-ink/50 mb-8">{t('villaV.gallery.feature.caption')}</p>
                 <div className="group cursor-pointer">
                   <div className="aspect-video overflow-hidden mb-4">
-                    <img src="/images/villa-v-pool.png" alt="Villa V Pool" className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
+                    <img src="images/villa-v-pool.png" alt="Villa V Pool" className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
                   </div>
                   <h4 className="font-serif text-xl text-ink mb-1">The Infinity Pool</h4>
                   <p className="font-sans text-[10px] tracking-widest uppercase text-ink/50">Private Outdoor Living</p>
@@ -271,7 +271,7 @@ export default function VillaV() {
               <div className="md:col-span-4 flex flex-col gap-10">
                 <motion.div variants={fadeUp} className="group cursor-pointer">
                   <div className="aspect-square overflow-hidden mb-4">
-                    <img src="/images/gallery-3.jpg" alt={t('villaV.gallery.dining.title')} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
+                    <img src="images/gallery-3.jpg" alt={t('villaV.gallery.dining.title')} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
                   </div>
                   <h4 className="font-serif text-lg text-ink mb-1">{t('villaV.gallery.dining.title')}</h4>
                   <p className="font-sans text-[10px] tracking-widest uppercase text-ink/50">{t('villaV.gallery.dining.caption')}</p>
@@ -279,7 +279,7 @@ export default function VillaV() {
 
                 <motion.div variants={fadeUp} className="group cursor-pointer">
                   <div className="aspect-[3/4] overflow-hidden mb-4">
-                    <img src="/images/gallery-7.jpg" alt={t('villaV.gallery.interiors.title')} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
+                    <img src="images/gallery-7.jpg" alt={t('villaV.gallery.interiors.title')} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
                   </div>
                   <h4 className="font-serif text-lg text-ink mb-1">{t('villaV.gallery.interiors.title')}</h4>
                   <p className="font-sans text-[10px] tracking-widest uppercase text-ink/50">{t('villaV.gallery.interiors.caption')}</p>

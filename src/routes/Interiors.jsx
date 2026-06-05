@@ -28,10 +28,10 @@ function Section({ children, className = '' }) {
 
 // Portfolio images — reuse existing local images
 const portfolioItems = [
-  { src: '/images/wallpaper.jpg',       label: 'Villa Walls',   span: 'tall' },
-  { src: '/images/img-9528.jpg',        label: 'Makeover',      span: 'square' },
-  { src: '/images/gallery-5.jpg',      label: 'Villa V',       span: 'wide' },
-  { src: '/images/london.jpg',          label: 'London Decor',  span: 'tall' },
+  { src: 'images/wallpaper.jpg',       label: 'Villa Walls',   span: 'tall' },
+  { src: 'images/img-9528.jpg',        label: 'Makeover',      span: 'square' },
+  { src: 'images/gallery-5.jpg',      label: 'Villa V',       span: 'wide' },
+  { src: 'images/london.jpg',          label: 'London Decor',  span: 'tall' },
 ]
 
 export default function Interiors() {
@@ -60,7 +60,7 @@ export default function Interiors() {
       <header ref={heroRef} className="relative h-screen min-h-[600px] overflow-hidden">
         <motion.div className="absolute inset-0 will-change-transform" style={{ y: heroY, scale: heroScale }}>
           <img
-            src="/images/interiors-hero.jpeg"
+            src="images/interiors-hero.jpeg"
             alt=""
             className="absolute inset-0 w-full h-full object-cover object-center"
             style={{ imageRendering: 'high-quality' }}
@@ -118,7 +118,7 @@ export default function Interiors() {
             <motion.div variants={fadeUp} className="relative">
               <div className="aspect-[4/5] overflow-hidden">
                 <img
-                  src="/images/interior-1.jpg"
+                  src="images/interior-1.jpg"
                   alt="Maria Capor"
                   className="w-full h-full object-cover scale-110"
                   style={{ objectPosition: '55% center' }}
