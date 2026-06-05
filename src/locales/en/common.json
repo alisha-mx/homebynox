@@ -1,0 +1,336 @@
+{
+  "site": {
+    "name": "Home by Nox",
+    "tagline": "Interior Design, Mediterranean Living & Villa V"
+  },
+  "nav": {
+    "home": "Home",
+    "interiors": "Interiors",
+    "villaV": "Villa V",
+    "blog": "Blog",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "inquire": "Enquire"
+  },
+  "hero": {
+    "title": "HOME BY NOX",
+    "subtitle": "Interior Design, Art of Living & Villa V",
+    "byline": "By Maria",
+    "scroll": "Scroll"
+  },
+  "maria": {
+    "label": "Meet the Designer",
+    "name": "Maria Capor",
+    "p1": "I create homes with feeling, personality and warmth. My work is rooted in a love of beautiful interiors, thoughtful details and spaces that feel as good as they look.",
+    "p2": "Through <bold>Home By Nox</bold>, I help clients transform their homes with considered interior design guidance, whether they are refreshing a single room, rethinking a layout or creating a more cohesive home.",
+    "p3": "My world also includes Villa V, a private Mediterranean retreat in Croatia, designed and created together with my husband. Across both interiors and Villa V, the feeling is the same: relaxed beauty, soulful design and spaces made to be lived in."
+  },
+  "quote": {
+    "text": "\"May your walls know joy, may every room hold laughter and every window open to great possibility.\"",
+    "attribution": "M.A. Radmacher-Hershey"
+  },
+  "gallery": {
+    "heading": "A Life Curated",
+    "subheading": "A warm, editorial glimpse into my world of interiors, design, Villa V and lifestyle."
+  },
+  "editorial": {
+    "heading": "Explore",
+    "interiors": {
+      "title": "Interiors",
+      "description": "Interior assistance for homes that feel personal, balanced and beautifully lived in.",
+      "cta": "Explore Interiors"
+    },
+    "villaV": {
+      "title": "Villa V",
+      "description": "A private Croatian retreat overlooking the Adriatic Sea.",
+      "cta": "Discover Villa V"
+    },
+    "journal": {
+      "title": "The Blog",
+      "description": "Interior inspiration, design stories and glimpses into my creative world.",
+      "cta": "Read the Blog"
+    }
+  },
+  "social": {
+    "heading": "Connect with Maria",
+    "instagram": "Follow on Instagram",
+    "youtube": "Watch on YouTube"
+  },
+  "cta": {
+    "heading": "Begin Your <italic>Home By Nox</italic> Journey",
+    "copy": "Whether you are dreaming of a more beautiful home or planning a stay at Villa V, I would love to hear from you!",
+    "contact": "Contact Maria",
+    "villaV": "Discover Villa V"
+  },
+  "footer": {
+    "copyright": "© 2026 MARIA CAPOR."
+  },
+  "seo": {
+    "home": {
+      "title": "Home by Nox — Interior Design, Mediterranean Living & Villa V",
+      "description": "Maria Capor creates homes with warmth, feeling and personality. Interior design guidance and Villa V, a private Mediterranean retreat in Croatia."
+    },
+    "interiors": {
+      "title": "Interiors — Home by Nox",
+      "description": "Interior design assistance for homes that feel personal, balanced and beautifully lived in."
+    },
+    "villaV": {
+      "title": "Villa V — Home by Nox",
+      "description": "A private Croatian retreat overlooking the Adriatic Sea. Designed by Maria Capor."
+    },
+    "blog": {
+      "title": "The Journal — Home by Nox",
+      "description": "Interior inspiration, design stories and glimpses into Maria's creative world."
+    },
+    "testimonials": {
+      "title": "Testimonials — Home by Nox",
+      "description": "What clients say about working with Maria Capor and Home by Nox."
+    },
+    "contact": {
+      "title": "Contact — Home by Nox",
+      "description": "Get in touch with Maria Capor to discuss your interior project or a stay at Villa V."
+    }
+  },
+  "banner": {
+    "viewIn": "View this site in",
+    "svenska": "Svenska",
+    "english": "English",
+    "dismiss": "Dismiss"
+  },
+  "placeholder": {
+    "comingSoon": "Coming soon"
+  },
+  "interiors": {
+    "hero": {
+      "label": "Bespoke Design Services",
+      "title": "The Art of Slow Living",
+      "subtitle": "Interior design guidance for homes that feel personal, balanced and beautifully lived in."
+    },
+    "philosophy": {
+      "label": "The Studio",
+      "heading": "Maria Capor's Philosophy",
+      "p1": "Whether you are refreshing a single room or creating a home from scratch, I am here to guide you through every step. My work begins with really listening and understanding your home, your life and how you want your spaces to feel.",
+      "p2": "From there, I put together a complete interior design proposal built entirely around your wishes. We go through it together, and if anything needs refining, we adjust until it feels right. I care about finding the best solution for you and your home, and I am with you throughout the whole process.",
+      "quote": "\"...because life's too short for boring interiors.\""
+    },
+    "process": {
+      "heading": "The Process",
+      "step1": {
+        "number": "01",
+        "title": "Let's Talk",
+        "body": "We begin with a conversation about your home, your ideas and how you'd like your space to feel. Whether you have a clear vision or don't know where to start, we'll find the right direction together."
+      },
+      "step2": {
+        "number": "02",
+        "title": "Your Design Proposal",
+        "body": "Based on our discussions, I create a complete interior design proposal tailored to your home and lifestyle. This may include layouts, furniture suggestions, colours, lighting and materials."
+      },
+      "step3": {
+        "number": "03",
+        "title": "Refine and Create",
+        "body": "We review the proposal together and make any adjustments needed. My goal is always to create a home that feels personal, functional and truly yours."
+      }
+    },
+    "services": {
+      "heading": "Tailored Assistance",
+      "intro": "A range of considered services to help you create a home that feels personal, balanced and beautifully lived in.",
+      "room": {
+        "title": "Room Planning",
+        "body": "Thoughtful layouts that help your home feel balanced, functional and welcoming."
+      },
+      "furniture": {
+        "title": "Furniture & Styling",
+        "body": "Guidance on furniture, lighting, textiles and decorative details that work beautifully together."
+      },
+      "colours": {
+        "title": "Colours & Materials",
+        "body": "Help choosing colours, wallpaper, flooring, kitchens, bathrooms and finishes that create a cohesive look throughout your home."
+      },
+      "guidance": {
+        "title": "Design Guidance",
+        "body": "A trusted sounding board for your ideas, helping you make confident decisions and avoid costly mistakes."
+      }
+    },
+    "portfolio": {
+      "label": "Portfolio",
+      "heading": "Selected Works",
+      "item1": "Villa Walls",
+      "item2": "Makeover",
+      "item3": "Villa V",
+      "item4": "London Decor"
+    },
+    "cta": {
+      "label": "Ready to Begin?",
+      "body": "Let's connect to see how we can bring your vision to life.",
+      "button": "Contact Me"
+    }
+  },
+  "villaV": {
+    "hero": {
+      "label": "Exclusive Destination",
+      "title": "Villa V",
+      "subtitle": "A timeless sanctuary perched above the Adriatic, where ancient stone meets modern coastal luxury."
+    },
+    "story": {
+      "label": "The Villa",
+      "heading": "Deeply Rooted in the Adriatic Coast",
+      "p1": "Nestled in a breathtaking location, Villa V promises an unforgettable experience for those seeking something truly unparalleled.",
+      "p2": "Step outside to discover your private oasis and immerse yourself in the tranquil ambiance as you gaze upon panoramic views of the beautiful Adriatic Sea. Bask in the warm sun on plush loungers, sip on a refreshing drink at the poolside, or take a rejuvenating dip in the crystal clear water of the infinity pool.",
+      "p3": "As the day fades into evening, gather with loved ones for a memorable al fresco dining experience on the terrace, embracing the gentle breeze and the starry night. Whether you seek a romantic getaway, a family vacation, or a luxurious retreat with friends, Villa V is the epitome of refined living."
+    },
+    "video": {
+      "heading": "Witness the Villa",
+      "subtitle": "A cinematic tour of the property"
+    },
+    "gallery": {
+      "label": "The Experience",
+      "heading": "Design in Harmony",
+      "feature": {
+        "title": "The Infinite Horizon",
+        "caption": "Beautiful Sea Views"
+      },
+      "dining": {
+        "title": "Al Fresco Dining",
+        "caption": "Kitchen & Terrace"
+      },
+      "interiors": {
+        "title": "Amazing Interiors",
+        "caption": "Architectural Heritage"
+      }
+    },
+    "details": {
+      "heading": "Property Details",
+      "copy": "Villa V is a very unique property created by myself and my husband, finalised in 2017. Situated in total privacy with exceptional views in a green zone surrounded by olive groves and the beautiful south Croatian landscape — yet just a 10-minute drive from Dubrovnik Airport and 15 minutes from the charming medieval village of Cavtat.",
+      "bedrooms": {
+        "title": "Sleeping Quarters",
+        "body": "5 bedrooms, all with sea views."
+      },
+      "pool": {
+        "title": "Wellness & Pool",
+        "body": "Heated infinity pool and relaxation areas, including sunbeds, furniture and a cabana."
+      },
+      "kitchen": {
+        "title": "Kitchen Facilities",
+        "body": "Large fully equipped kitchen, perfect for dining all day long."
+      },
+      "location": {
+        "title": "Exclusive Location",
+        "body": "Located in beautiful Cavtat, 25 minutes from Dubrovnik."
+      }
+    },
+    "location": {
+      "heading": "A Hidden Peninsula",
+      "copy": "Stay in a beautiful, secluded natural setting that is still close to the picturesque medieval village of Cavtat, with its lovely little marina lined by charming cafés and restaurants.",
+      "dubrovnik": {
+        "label": "Dubrovnik Old Town",
+        "time": "25 min drive"
+      },
+      "airport": {
+        "label": "Dubrovnik Airport",
+        "time": "10 min drive"
+      },
+      "cavtat": {
+        "label": "Cavtat Town",
+        "time": "10 min drive"
+      }
+    },
+    "reviews": {
+      "label": "Guest Chronicles",
+      "heading": "Moments at Villa V",
+      "review1": {
+        "text": "This property is simply stunning. The house itself is a design masterpiece, but the outside is the true gem — as good as the pictures, or better — with incredible views, a gorgeous infinity pool, cabana and large outdoor dining area. The location is also very convenient. You may not want to leave once you check in.",
+        "author": "Neal, Virginia USA"
+      },
+      "review2": {
+        "text": "Amazing, amazing, amazing! The home is truly a home away from home. It looks exactly as it does in the pictures. The house was spotless, and we could easily have spent our entire stay at the Villa and still had an incredible time. The view was breathtaking — we will absolutely revisit!",
+        "author": "Gladys, England"
+      },
+      "review3": {
+        "text": "Villa V exceeded every expectation. The infinity pool, the views, the privacy — it is genuinely one of the most beautiful places I have ever stayed. Maria and her husband have created something truly special. We will be back.",
+        "author": "Charlotte, London UK"
+      },
+      "review4": {
+        "text": "Maria is empathetic, accommodating and professional. I felt completely safe in Maria's communication, feedback, advice, tips, suggestions and final styling. We had a continuous dialogue while she was working which was appreciated. I love coming home to myself and also get many compliments on how nice it is here at home.",
+        "author": "Cia, Danderyd"
+      },
+      "review5": {
+        "text": "I have experienced great responsiveness from Maria. She guided me through my somewhat confused ideas and found products that matched well with what I wanted. Maria was knowledgeable, professional and inspiring.",
+        "author": "Mylaine, Södermalm"
+      },
+      "review6": {
+        "text": "So wonderful to get help from a real professional! After several years, my thoughts and ideas finally came down on paper, with pictures and sketches that made it possible to understand exactly how it would turn out. Much better than I could have wished for!",
+        "author": "Jenny, Stocksund"
+      },
+      "review7": {
+        "text": "We have received such great interior design help from Maria with arranging the furniture at home. She has an exceptional eye for what works, things that you can easily become completely blind to at home. She also comes with good tips on what you could renew. With her pleasant and accommodating manner, she is very pleasant to hire. We highly recommend her!",
+        "author": "Helen, Danderyd"
+      },
+      "review8": {
+        "text": "I can highly recommend Maria. She is very professional, has an incredible talent for seeing great solutions with existing furniture and is very good at finding furniture, lighting and interior design details that enhance the room.",
+        "author": "Berrin, Stocksund"
+      },
+      "review9": {
+        "text": "A thousand thanks to Maria who helped us come up with interior design ideas for several rooms spread over 3 floors. Maria came up with comprehensive solutions where we could easily click on links to see furniture. We were amazed that the costs didn't skyrocket — a good mix of nice choices. We kept in touch throughout the project.",
+        "author": "Marie-Louise, Enebyberg"
+      }
+    },
+    "booking": {
+      "heading": "Begin Your Journey",
+      "copy": "Contact us to discuss availability and bespoke guest services.",
+      "airbnb": "Book on Airbnb",
+      "enquire": "Email to Enquire"
+    }
+  },
+  "blog": {
+    "header": {
+      "label": "The Blog",
+      "heading": "Interiors, Travel & Timeless Design"
+    },
+    "featured": {
+      "label": "My Blog",
+      "heading": "Catch Up With Me!",
+      "copy": "Here I upload regular blogs all about design, my travels and anything that comes to mind!"
+    },
+    "posts": {
+      "youtube": {
+        "tag": "Personal",
+        "title": "I Have Finally Started My YouTube Channel!",
+        "excerpt": "The channel is called \"More is More with Maria\" and here I show off my own projects, makeovers, interior design tips and inspiring environments I visit!",
+        "cta": "Watch Now"
+      },
+      "historic": {
+        "tag": "Living",
+        "title": "Some Pictures From Our Historic Room That I Never Tire Of...",
+        "excerpt": "Read more about the room and its unique wallpaper!",
+        "cta": "Read Here"
+      },
+      "france": {
+        "tag": "Travel",
+        "title": "France and Italy",
+        "excerpt": "A longing for warmer and sunnier days in France and Italy."
+      },
+      "makeover": {
+        "tag": "Interiors",
+        "title": "Living Room Makeover",
+        "excerpt": "Here you can see a makeover of my brother's living room that I did recently."
+      },
+      "wallpapers": {
+        "tag": "Craft",
+        "title": "Wallpapers",
+        "excerpt": "The amazing story behind the unique wallpapers in our living room."
+      }
+    },
+    "newsletter": {
+      "label": "Stay Inspired",
+      "heading": "Subscribe to the Journal",
+      "copy": "Occasional notes on interiors, travel and life at Villa V — delivered directly to your inbox.",
+      "placeholder": "Your email address",
+      "button": "Subscribe"
+    },
+    "hero": {
+      "label": "Interior Stories",
+      "title": "The Blog",
+      "subtitle": "Interiors, travel and timeless design, from my world to yours."
+    }
+  }
+}

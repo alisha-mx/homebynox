@@ -1,0 +1,335 @@
+{
+  "site": {
+    "name": "Home by Nox",
+    "tagline": "Inredningsdesign, Medelhavsliv & Villa V"
+  },
+  "nav": {
+    "home": "Hem",
+    "interiors": "Interiörer",
+    "villaV": "Villa V",
+    "blog": "Blogg",
+    "testimonials": "Omdömen",
+    "contact": "Kontakt",
+    "inquire": "Förfrågan"
+  },
+  "hero": {
+    "title": "HOME BY NOX",
+    "subtitle": "Inredningsdesign, Medelhavsliv & Villa V",
+    "scroll": "Scrolla"
+  },
+  "maria": {
+    "label": "Möt Designern",
+    "name": "Maria Capor",
+    "p1": "Maria skapar hem med känsla, personlighet och värme. Hennes arbete är rotat i en kärlek till vackra interiörer, genomtänkta detaljer och rum som känns lika bra som de ser ut.",
+    "p2": "Genom HOME BY NOX hjälper Maria kunder att förvandla sina hem med välövervägd inredningsvägledning, oavsett om de fräschar upp ett enda rum, tänker om en planlösning eller skapar ett mer sammanhängande hem.",
+    "p3": "Hennes värld inkluderar även Villa V, ett privat medelhavstillflyktsort i Kroatien, designad och skapad tillsammans med hennes man. Hos både interiörer och Villa V är känslan densamma: avspänd skönhet, själsfull design och rum skapade för att levas i."
+  },
+  "quote": {
+    "text": "Må dina väggar känna glädje, må varje rum hålla skratt och varje fönster öppna mot stora möjligheter.",
+    "attribution": "M.A. Radmacher-Hershey"
+  },
+  "gallery": {
+    "heading": "Ett Kuraterat Liv",
+    "subheading": "En varm, redaktionell glimt in i Marias värld av interiörer, Villa V och medelhavsliv."
+  },
+  "editorial": {
+    "heading": "Utforska",
+    "interiors": {
+      "title": "Interiörer",
+      "description": "Inredningshjälp för hem som känns personliga, balanserade och vackert levda i.",
+      "cta": "Utforska Interiörer"
+    },
+    "villaV": {
+      "title": "Villa V",
+      "description": "En privat kroatisk tillflyktsort med utsikt över Adriatiska havet.",
+      "cta": "Upptäck Villa V"
+    },
+    "journal": {
+      "title": "Journalen",
+      "description": "Inredningsinspiration, designberättelser och glimtar in i Marias kreativa värld.",
+      "cta": "Läs Journalen"
+    }
+  },
+  "social": {
+    "heading": "Följ Maria",
+    "instagram": "Följ på Instagram",
+    "youtube": "Se på YouTube"
+  },
+  "cta": {
+    "heading": "Börja Din Home By Nox-resa",
+    "copy": "Oavsett om du drömmer om ett vackrare hem eller planerar ett besök på Villa V, hör Maria gärna av dig.",
+    "contact": "Kontakta Maria",
+    "villaV": "Upptäck Villa V"
+  },
+  "footer": {
+    "copyright": "© 2026 HOME BY NOX. Designad för medelhavsliv."
+  },
+  "seo": {
+    "home": {
+      "title": "Home by Nox — Inredningsdesign, Medelhavsliv & Villa V",
+      "description": "Maria Capor skapar hem med värme, känsla och personlighet. Inredningsvägledning och Villa V, ett privat medelhavstillflyktsort i Kroatien."
+    },
+    "interiors": {
+      "title": "Interiörer — Home by Nox",
+      "description": "Inredningshjälp för hem som känns personliga, balanserade och vackert levda i."
+    },
+    "villaV": {
+      "title": "Villa V — Home by Nox",
+      "description": "En privat kroatisk tillflyktsort med utsikt över Adriatiska havet. Designad av Maria Capor."
+    },
+    "blog": {
+      "title": "Journalen — Home by Nox",
+      "description": "Inredningsinspiration, designberättelser och glimtar in i Marias kreativa värld."
+    },
+    "testimonials": {
+      "title": "Omdömen — Home by Nox",
+      "description": "Vad kunder säger om att arbeta med Maria Capor och Home by Nox."
+    },
+    "contact": {
+      "title": "Kontakt — Home by Nox",
+      "description": "Kontakta Maria Capor för att diskutera ditt inredningsprojekt eller ett besök på Villa V."
+    }
+  },
+  "banner": {
+    "viewIn": "Visa sidan på",
+    "svenska": "Svenska",
+    "english": "Engelska",
+    "dismiss": "Stäng"
+  },
+  "placeholder": {
+    "comingSoon": "Kommer snart"
+  },
+  "interiors": {
+    "hero": {
+      "label": "Skräddarsydda Designtjänster",
+      "title": "Konsten att Leva Långsamt",
+      "subtitle": "Inredningshjälp för hem som känns personliga, balanserade och vackert levda i."
+    },
+    "philosophy": {
+      "label": "Studion",
+      "heading": "Maria Capors Filosofi",
+      "p1": "Oavsett om du fräschar upp ett enda rum eller skapar ett hem från grunden, är jag här för att vägleda dig genom varje steg. Mitt arbete börjar med att verkligen lyssna och förstå ditt hem, ditt liv och hur du vill att dina rum ska kännas.",
+      "p2": "Därifrån sätter jag ihop ett komplett inredningsförslag byggt helt utifrån dina önskemål. Vi går igenom det tillsammans, och om något behöver justeras anpassar vi det tills det känns rätt. Jag bryr mig om att hitta den bästa lösningen för dig och ditt hem, och jag finns med dig genom hela processen.",
+      "quote": "\"...för livet är för kort för tråkiga interiörer.\""
+    },
+    "process": {
+      "heading": "Processen",
+      "step1": {
+        "number": "01",
+        "title": "Vi Pratar",
+        "body": "Vi börjar med ett samtal om ditt hem, dina idéer och hur du vill att ditt rum ska kännas. Oavsett om du har en tydlig vision eller inte vet var du ska börja, hittar vi rätt riktning tillsammans."
+      },
+      "step2": {
+        "number": "02",
+        "title": "Ditt Designförslag",
+        "body": "Baserat på våra diskussioner skapar jag ett komplett inredningsförslag anpassat efter ditt hem och din livsstil. Det kan inkludera layouter, möbelförslag, färger, belysning och material."
+      },
+      "step3": {
+        "number": "03",
+        "title": "Förfina och Skapa",
+        "body": "Vi går igenom förslaget tillsammans och gör eventuella justeringar. Mitt mål är alltid att skapa ett hem som känns personligt, funktionellt och genuint ditt."
+      }
+    },
+    "services": {
+      "heading": "Skräddarsydd Hjälp",
+      "intro": "Ett urval av genomtänkta tjänster för att hjälpa dig skapa ett hem som känns personligt, balanserat och vackert levt i.",
+      "room": {
+        "title": "Rumsplanering",
+        "body": "Genomtänkta layouter som hjälper ditt hem att kännas balanserat, funktionellt och välkomnande."
+      },
+      "furniture": {
+        "title": "Möbler & Styling",
+        "body": "Vägledning om möbler, belysning, textilier och dekorativa detaljer som fungerar vackert tillsammans."
+      },
+      "colours": {
+        "title": "Färger & Material",
+        "body": "Hjälp att välja färger, tapet, golv, kök, badrum och ytskikt som skapar ett sammanhängande uttryck i hela ditt hem."
+      },
+      "guidance": {
+        "title": "Designvägledning",
+        "body": "En pålitlig bollplank för dina idéer, som hjälper dig fatta trygga beslut och undvika kostsamma misstag."
+      }
+    },
+    "portfolio": {
+      "label": "Portfolio",
+      "heading": "Utvalda Verk",
+      "item1": "Villans Väggar",
+      "item2": "Omvandling",
+      "item3": "Villa V",
+      "item4": "London Dekor"
+    },
+    "cta": {
+      "label": "Redo att Börja?",
+      "body": "Låt oss kontakta för att se hur vi kan förverkliga din vision.",
+      "button": "Kontakta Mig"
+    }
+  },
+  "villaV": {
+    "hero": {
+      "label": "Exklusiv Destination",
+      "title": "Villa V",
+      "subtitle": "En tidlös fristad ovanför Adriatiska havet, där uråldrig sten möter modern kustnära lyx."
+    },
+    "story": {
+      "label": "Villan",
+      "heading": "Djupt Rotad i Adriatikusten",
+      "p1": "Inbäddad på en hisnande plats lovar Villa V en oförglömlig upplevelse för dem som söker något verkligt unikt.",
+      "p2": "Steg ut och upptäck din privata oas och fördjupa dig i den lugna stämningen medan du blickar ut över panoramavyer över det vackra Adriatiska havet. Njut av solen på bekväma solstolar, sippa en uppfriskande drink vid poolen eller ta ett uppfriskande dopp i infinitypoolens kristallklara vatten.",
+      "p3": "När dagen övergår till kväll, samlas med nära och kära för en minnesvärd al fresco-middag på terrassen, i den milda brisen under stjärnhimlen. Oavsett om du söker en romantisk flykt, en semesterresa med familjen eller en lyxig retreat med vänner — Villa V är det raffinerade livets epitom."
+    },
+    "video": {
+      "heading": "Upplev Villan",
+      "subtitle": "En cinematisk rundtur av fastigheten"
+    },
+    "gallery": {
+      "label": "Upplevelsen",
+      "heading": "Design i Harmoni",
+      "feature": {
+        "title": "Den Oändliga Horisonten",
+        "caption": "Vackra Havsvyer"
+      },
+      "dining": {
+        "title": "Al Fresco-middag",
+        "caption": "Kök & Terrass"
+      },
+      "interiors": {
+        "title": "Fantastiska Interiörer",
+        "caption": "Arkitektoniskt Arv"
+      }
+    },
+    "details": {
+      "heading": "Fastighetsinformation",
+      "copy": "Villa V är en mycket unik fastighet skapad av mig och min man, färdigställd 2017. Belägen i total avskildhet med exceptionella vyer i en grön zon omgiven av olivlundar och den vackra sydkroatiska naturen — ändå bara 10 minuters bilresa från Dubrovniks flygplats.",
+      "bedrooms": {
+        "title": "Sovutrymmen",
+        "body": "5 sovrum, alla med havsutsikt."
+      },
+      "pool": {
+        "title": "Wellness & Pool",
+        "body": "Uppvärmd infinitypool och relaxområden med solstolar, möbler och en cabana."
+      },
+      "kitchen": {
+        "title": "Köksanläggningar",
+        "body": "Stort fullt utrustat kök, perfekt för att äta hela dagen lång."
+      },
+      "location": {
+        "title": "Exklusivt Läge",
+        "body": "Beläget i vackra Cavtat, 25 minuter från Dubrovnik."
+      }
+    },
+    "location": {
+      "heading": "En Dold Halvö",
+      "copy": "Bo i en vacker, avskild naturmiljö som ändå är nära den pittoreska medeltida byn Cavtat, med sin lilla marina kantad av charmiga caféer och restauranger.",
+      "dubrovnik": {
+        "label": "Dubrovniks Gamla Stad",
+        "time": "25 min bilresa"
+      },
+      "airport": {
+        "label": "Dubrovniks Flygplats",
+        "time": "10 min bilresa"
+      },
+      "cavtat": {
+        "label": "Cavtat Stad",
+        "time": "10 min bilresa"
+      }
+    },
+    "reviews": {
+      "label": "Gästkrönikor",
+      "heading": "Ögonblick på Villa V",
+      "review1": {
+        "text": "Den här fastigheten är helt enkelt fantastisk. Huset i sig är ett designmästerverk, men utsidan är den verkliga pärlan — lika bra som bilderna, eller bättre — med otroliga vyer, en fantastisk infinitypool och ett stort utomhusmatsal. Du kanske inte vill lämna när du väl checkat in.",
+        "author": "Neal, Virginia USA"
+      },
+      "review2": {
+        "text": "Fantastiskt, fantastiskt, fantastiskt! Hemmet är verkligen ett hem borta från hemmet. Det ser precis ut som på bilderna. Huset var skinande rent och vi kunde ha tillbringat hela vistelsen på Villan och ändå haft en fantastisk tid. Utsikten var hänförande — vi kommer absolut tillbaka!",
+        "author": "Gladys, England"
+      },
+      "review3": {
+        "text": "Villa V överträffade alla förväntningar. Infinitypoolen, vyerna, avskildenheten — det är genuint en av de vackraste platser jag någonsin bott på. Maria och hennes man har skapat något verkligt speciellt. Vi kommer tillbaka.",
+        "author": "Charlotte, London UK"
+      },
+      "review4": {
+        "text": "Maria is empathetic, accommodating and professional. I felt completely safe in Maria's communication, feedback, advice, tips, suggestions and final styling. We had a continuous dialogue while she was working which was appreciated. I love coming home to myself and also get many compliments on how nice it is here at home.",
+        "author": "Cia, Danderyd"
+      },
+      "review5": {
+        "text": "I have experienced great responsiveness from Maria. She guided me through my somewhat confused ideas and found products that matched well with what I wanted. Maria was knowledgeable, professional and inspiring.",
+        "author": "Mylaine, Södermalm"
+      },
+      "review6": {
+        "text": "So wonderful to get help from a real professional! After several years, my thoughts and ideas finally came down on paper, with pictures and sketches that made it possible to understand exactly how it would turn out. Much better than I could have wished for!",
+        "author": "Jenny, Stocksund"
+      },
+      "review7": {
+        "text": "We have received such great interior design help from Maria with arranging the furniture at home. She has an exceptional eye for what works, things that you can easily become completely blind to at home. She also comes with good tips on what you could renew. With her pleasant and accommodating manner, she is very pleasant to hire. We highly recommend her!",
+        "author": "Helen, Danderyd"
+      },
+      "review8": {
+        "text": "I can highly recommend Maria. She is very professional, has an incredible talent for seeing great solutions with existing furniture and is very good at finding furniture, lighting and interior design details that enhance the room.",
+        "author": "Berrin, Stocksund"
+      },
+      "review9": {
+        "text": "A thousand thanks to Maria who helped us come up with interior design ideas for several rooms spread over 3 floors. Maria came up with comprehensive solutions where we could easily click on links to see furniture. We were amazed that the costs didn't skyrocket — a good mix of nice choices. We kept in touch throughout the project.",
+        "author": "Marie-Louise, Enebyberg"
+      }
+    },
+    "booking": {
+      "heading": "Påbörja Din Resa",
+      "copy": "Kontakta oss för att diskutera tillgänglighet och skräddarsydda gästtjänster.",
+      "airbnb": "Boka på Airbnb",
+      "enquire": "Skicka Förfrågan"
+    }
+  },
+  "blog": {
+    "header": {
+      "label": "Bloggen",
+      "heading": "Interiörer, Resor & Tidlös Design"
+    },
+    "featured": {
+      "label": "Min Blogg",
+      "heading": "Ta Igen Det Med Mig!",
+      "copy": "Här laddar jag upp regelbundna bloggar om allt från design och resor till vad som helst som dyker upp i mitt huvud!"
+    },
+    "posts": {
+      "youtube": {
+        "tag": "Personligt",
+        "title": "Jag Har Äntligen Startat Min YouTube-kanal!",
+        "excerpt": "Kanalen heter \"More is More with Maria\" och här visar jag upp mina egna projekt, renoveringar, inredningstips och inspirerande miljöer jag besöker!",
+        "cta": "Se Nu"
+      },
+      "historic": {
+        "tag": "Hem",
+        "title": "Några Bilder Från Vårt Historiska Rum Som Jag Aldrig Tröttnar På...",
+        "excerpt": "Läs mer om rummet och dess unika tapet!",
+        "cta": "Läs Här"
+      },
+      "france": {
+        "tag": "Resor",
+        "title": "Frankrike och Italien",
+        "excerpt": "En längtan efter varmare och solrikare dagar i Frankrike och Italien."
+      },
+      "makeover": {
+        "tag": "Interiörer",
+        "title": "Vardagsrum Makeover",
+        "excerpt": "Här kan du se en makeover av min brors vardagsrum som jag gjorde nyligen."
+      },
+      "wallpapers": {
+        "tag": "Hantverk",
+        "title": "Tapeter",
+        "excerpt": "Den fantastiska historien bakom de unika tapetserna i vårt vardagsrum."
+      }
+    },
+    "newsletter": {
+      "label": "Håll Dig Inspirerad",
+      "heading": "Prenumerera på Journalen",
+      "copy": "Tillfälliga anteckningar om interiörer, resor och livet på Villa V — direkt i din inkorg.",
+      "placeholder": "Din e-postadress",
+      "button": "Prenumerera"
+    },
+    "hero": {
+      "label": "Inredningsberättelser",
+      "title": "Bloggen",
+      "subtitle": "Interiörer, resor och tidlös design — från min värld till din."
+    }
+  }
+}
