@@ -62,7 +62,7 @@
     "villaV": "Upptäck Villa V"
   },
   "footer": {
-    "copyright": "© 2026 HOME BY NOX. Designad för medelhavsliv."
+    "copyright": "© 2026 MARIA CAPOR."
   },
   "seo": {
     "home": {
@@ -237,40 +237,20 @@
       "label": "Gästkrönikor",
       "heading": "Ögonblick på Villa V",
       "review1": {
-        "text": "Den här fastigheten är helt enkelt fantastisk. Huset i sig är ett designmästerverk, men utsidan är den verkliga pärlan — lika bra som bilderna, eller bättre — med otroliga vyer, en fantastisk infinitypool och ett stort utomhusmatsal. Du kanske inte vill lämna när du väl checkat in.",
-        "author": "Neal, Virginia USA"
+        "text": "Det finns inga ord som kan göra Villa V rättvisa, ärligt talat. Paradis kanske? Jag vill egentligen inte skriva den här recensionen för jag vill behålla Villa V helt för mig själv haha! Villan är vackrare än ord kan beskriva... fantastiskt läge, en fridfull tillflyktsort... ren perfektion. Poolen, uppvärmd och helt underbar med utsikt att dö för och en solnedgång din iPhone inte gör rättvisa. Insidan av huset är bortom stilren. Vi hade faktiskt vår bröllopsfest på villan och den har gått till historien som det bästa bröllopet någonsin. Vi sägs nästa år! Kärlek Lucy & Gray xxx",
+        "author": "Lucy & Gray, London, England"
       },
       "review2": {
-        "text": "Fantastiskt, fantastiskt, fantastiskt! Hemmet är verkligen ett hem borta från hemmet. Det ser precis ut som på bilderna. Huset var skinande rent och vi kunde ha tillbringat hela vistelsen på Villan och ändå haft en fantastisk tid. Utsikten var hänförande — vi kommer absolut tillbaka!",
+        "text": "Fantastiskt fantastiskt fantastiskt!!!! Hemmet är verkligen ett hem borta från hemmet. Det ser precis ut som på bilderna. Förvaltaren är vänlig och mycket hjälpsam. Huset var rent. Vi kunde lätt ha tillbringat hela vistelsen på villan och ändå haft en fantastisk tid. Utsikten var hänförande!!! Vi kommer tillbaka igen!",
         "author": "Gladys, England"
       },
       "review3": {
-        "text": "Villa V överträffade alla förväntningar. Infinitypoolen, vyerna, avskildenheten — det är genuint en av de vackraste platser jag någonsin bott på. Maria och hennes man har skapat något verkligt speciellt. Vi kommer tillbaka.",
-        "author": "Charlotte, London UK"
+        "text": "Den här fastigheten är helt enkelt fantastisk. Huset i sig är ett designmästerverk, men utsidan på baksidan är den verkliga pärlan. Det är lika bra som bilderna (eller bättre) med otrolig havsutsikt, fantastisk infinitypool, cabana och stort utomhusmatsal. Husets läge är mycket bekvämt till flygplatsen (15 min). Du kanske dock inte vill lämna huset när du väl checkat in, det är så fantastiskt.",
+        "author": "Neal, Virginia, USA"
       },
       "review4": {
-        "text": "Maria is empathetic, accommodating and professional. I felt completely safe in Maria's communication, feedback, advice, tips, suggestions and final styling. We had a continuous dialogue while she was working which was appreciated. I love coming home to myself and also get many compliments on how nice it is here at home.",
-        "author": "Cia, Danderyd"
-      },
-      "review5": {
-        "text": "I have experienced great responsiveness from Maria. She guided me through my somewhat confused ideas and found products that matched well with what I wanted. Maria was knowledgeable, professional and inspiring.",
-        "author": "Mylaine, Södermalm"
-      },
-      "review6": {
-        "text": "So wonderful to get help from a real professional! After several years, my thoughts and ideas finally came down on paper, with pictures and sketches that made it possible to understand exactly how it would turn out. Much better than I could have wished for!",
-        "author": "Jenny, Stocksund"
-      },
-      "review7": {
-        "text": "We have received such great interior design help from Maria with arranging the furniture at home. She has an exceptional eye for what works, things that you can easily become completely blind to at home. She also comes with good tips on what you could renew. With her pleasant and accommodating manner, she is very pleasant to hire. We highly recommend her!",
-        "author": "Helen, Danderyd"
-      },
-      "review8": {
-        "text": "I can highly recommend Maria. She is very professional, has an incredible talent for seeing great solutions with existing furniture and is very good at finding furniture, lighting and interior design details that enhance the room.",
-        "author": "Berrin, Stocksund"
-      },
-      "review9": {
-        "text": "A thousand thanks to Maria who helped us come up with interior design ideas for several rooms spread over 3 floors. Maria came up with comprehensive solutions where we could easily click on links to see furniture. We were amazed that the costs didn't skyrocket — a good mix of nice choices. We kept in touch throughout the project.",
-        "author": "Marie-Louise, Enebyberg"
+        "text": "När vi gjorde vår bokning av Marias hem förväntade vi oss ett fint hus med fin utsikt eftersom bilderna på Airbnb är fantastiska. Det sagt, de är ingenting jämfört med verkligheten av upplevelsen i detta hus. Det otroliga läget, mindre än 10 minuter från flygplatsen men ändå helt isolerat. Allt är vackert designat och kvaliteten är fantastisk. Poolen är helt overklig. Kommunikationen med Maria är enkel, snabb och effektiv. Om du letar efter ett drömhem för all slags avkopplande semester är Marias hem för dig.",
+        "author": "Benoit, New York, USA"
       }
     },
     "booking": {
@@ -330,6 +310,96 @@
       "label": "Inredningsberättelser",
       "title": "Bloggen",
       "subtitle": "Interiörer, resor och tidlös design — från min värld till din."
+    }
+  },
+  "testimonials": {
+    "hero": {
+      "label": "Vänliga Ord",
+      "title": "Omdömen",
+      "subtitle": "Delade berättelser från vår kuraterade värld."
+    },
+    "intro": {
+      "label": "Kundomdömen",
+      "heading": "Hem Skapade Att Levas I",
+      "p1": "Jag har arbetat med många olika inredningsuppdrag och stylat många hem till försäljning. Jag brinner mest för att hjälpa människor lyfta hemmen där de faktiskt bor.",
+      "p2": "Många gånger har jag fått höra efter att jag stylat ett hem till försäljning — nu önskar jag att jag hade stannat här, det blev så fint! Och det är roligt, men det är ännu roligare när den känslan kommer när man faktiskt bor där.",
+      "p3": "Artikeln bredvid är en intervju med mig i SvD, 2020. Nedan kan du läsa ett urval av kundomdömen från några av mina tidigare uppdrag."
+    },
+    "article": {
+      "caption": "Artikel från SvD, 2020"
+    },
+    "reviews": [
+      {
+        "text": "Maria är empatisk, tillmötesgående och professionell. Jag kände mig helt trygg i Marias kommunikation, feedback, råd, tips, förslag och slutliga styling. Vi hade en kontinuerlig dialog medan hon arbetade vilket uppskattades. Jag älskar att komma hem till mig själv och får också många komplimanger.",
+        "author": "Cia, Danderyd"
+      },
+      {
+        "text": "Jag har upplevt stor lyhördhet från Maria. Hon guidade mig genom mina något förvirrade idéer och hittade produkter som matchade väl. Maria var kunnig, professionell och inspirerande.",
+        "author": "Mylaine, Södermalm"
+      },
+      {
+        "text": "Så underbart att få hjälp av en riktig professionell! Efter flera år kom mina tankar och idéer äntligen ner på papper, med bilder och skisser som gjorde det möjligt att förstå exakt hur det skulle bli. Mycket bättre än jag kunde önskat!",
+        "author": "Jenny, Stocksund"
+      },
+      {
+        "text": "Vi har fått så bra inredningshjälp av Maria med möbleringen hemma. Hon har ett exceptionellt öga för vad som fungerar, saker man lätt blir blind för hemma. Med sitt trevliga sätt är hon mycket trevlig att anlita. Vi rekommenderar henne varmt!",
+        "author": "Helen, Danderyd"
+      },
+      {
+        "text": "Jag kan varmt rekommendera Maria. Hon är mycket professionell, har en otrolig talang för att se bra lösningar med befintliga möbler och är mycket bra på att hitta möbler, belysning och inredningsdetaljer som lyfter rummet.",
+        "author": "Berrin, Stocksund"
+      },
+      {
+        "text": "Tusen tack till Maria som hjälpte oss komma på inredningsidéer för flera rum över 3 våningar. Maria kom med heltäckande lösningar där vi enkelt kunde klicka på länkar för att se möbler. Vi var förvånade att kostnaderna inte skenade. Vi höll kontakten genom hela projektet.",
+        "author": "Marie-Louise, Enebyberg"
+      }
+    ],
+    "cta": {
+      "heading": "Redo att börja din resa?",
+      "button": "Kontakta Mig"
+    }
+  },
+  "contact": {
+    "hero": {
+      "label": "Låt Oss Skapa Tillsammans",
+      "title": "Skapar Atmosfär &",
+      "titleAccent": "Tidlöst Boende",
+      "intro": "Maria Capor grundade Home by Nox med ett uppdrag att överbrygga gapet mellan arkitektonisk precision och värmen av en medelhavssjäl. Baserad i Stockholm men inspirerad av världen."
+    },
+    "studio": {
+      "heading": "Studion",
+      "address": {
+        "label": "Stockholm Studio",
+        "value": "NOX Design AB, Lagman Linds Väg 4B, Stocksund"
+      },
+      "phone": {
+        "label": "Direktnummer",
+        "value": "070-781 55 55"
+      },
+      "email": {
+        "label": "Förfrågningar",
+        "value": "mariacapor@homebynox.com"
+      }
+    },
+    "form": {
+      "heading": "Låt Oss Kontakta",
+      "name": {
+        "label": "Fullständigt Namn",
+        "placeholder": "Ditt Namn"
+      },
+      "email": {
+        "label": "E-postadress",
+        "placeholder": "hej@exempel.com"
+      },
+      "message": {
+        "label": "Din Vision",
+        "placeholder": "Berätta mer..."
+      },
+      "submit": "Skicka Förfrågan"
+    },
+    "quote": {
+      "text": "Jag ska göra allt omkring mig vackert — det ska bli mitt liv.",
+      "author": "Elsie de Wolfe"
     }
   }
 }

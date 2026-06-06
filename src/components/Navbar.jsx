@@ -1,11 +1,12 @@
 import { useState, useEffect } from 'react'
-import { Link, NavLink, useParams } from 'react-router-dom'
+import { Link, NavLink, useParams, useLocation } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { NAV_LINKS, buildPath } from '../data/navigation.js'
 import LanguageSwitcher from './LanguageSwitcher.jsx'
 
 export default function Navbar() {
   const { locale } = useParams()
+  const location = useLocation()
   const { t } = useTranslation()
   const [scrolled, setScrolled] = useState(false)
   const [menuOpen, setMenuOpen] = useState(false)
@@ -16,11 +17,15 @@ export default function Navbar() {
     return () => window.removeEventListener('scroll', handler)
   }, [])
 
+  // Pages with a light background at the top (no dark hero) need dark nav text.
+  const lightTopPage = location.pathname.endsWith('/contact')
+  const lightTop = lightTopPage && !scrolled && !menuOpen
+
   const navBg = scrolled || menuOpen
     ? 'bg-linen/95 backdrop-blur-md shadow-sm'
     : 'bg-transparent'
 
-  const textColor = scrolled || menuOpen ? 'text-ink' : 'text-linen'
+  const textColor = scrolled || menuOpen ? 'text-ink' : lightTop ? 'text-primary' : 'text-linen'
 
   return (
     <nav className={`fixed top-0 left-0 right-0 z-40 transition-all duration-300 ${navBg}`}>
@@ -45,10 +50,12 @@ export default function Navbar() {
                 className={({ isActive }) =>
                   `font-sans text-[11px] tracking-widest uppercase transition-all duration-200 ${
                     isActive
-                      ? scrolled ? 'text-primary font-semibold' : 'text-white font-semibold'
-                      : scrolled
-                        ? `${textColor} hover:text-primary opacity-80 hover:opacity-100 hover:font-semibold`
-                        : 'text-linen opacity-80 hover:opacity-100 hover:font-semibold hover:text-white'
+                      ? scrolled ? 'text-primary font-semibold' : lightTop ? 'text-secondary font-semibold' : 'text-white font-semibold'
+                      : lightTop
+                        ? 'text-primary opacity-90 hover:opacity-100 hover:font-semibold hover:text-secondary'
+                        : scrolled
+                          ? `${textColor} hover:text-primary opacity-80 hover:opacity-100 hover:font-semibold`
+                          : 'text-linen opacity-80 hover:opacity-100 hover:font-semibold hover:text-white'
                   }`
                 }
               >
@@ -59,13 +66,15 @@ export default function Navbar() {
 
           {/* Right side */}
           <div className="hidden md:flex items-center gap-5">
-            <LanguageSwitcher scrolled={scrolled} />
+            <LanguageSwitcher scrolled={scrolled || lightTop} />
             <Link
               to={buildPath(locale, 'contact')}
               className={`font-sans text-[11px] tracking-widest uppercase border px-5 py-2 transition-all duration-200 ${
                 scrolled
                   ? 'border-primary text-primary hover:bg-primary hover:text-white'
-                  : 'border-linen text-linen hover:bg-linen hover:text-ink'
+                  : lightTop
+                    ? 'border-primary text-primary hover:bg-secondary hover:border-secondary hover:text-white'
+                    : 'border-linen text-linen hover:bg-linen hover:text-ink'
               }`}
             >
               {t('nav.inquire')}

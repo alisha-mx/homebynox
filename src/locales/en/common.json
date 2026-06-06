@@ -238,40 +238,20 @@
       "label": "Guest Chronicles",
       "heading": "Moments at Villa V",
       "review1": {
-        "text": "This property is simply stunning. The house itself is a design masterpiece, but the outside is the true gem — as good as the pictures, or better — with incredible views, a gorgeous infinity pool, cabana and large outdoor dining area. The location is also very convenient. You may not want to leave once you check in.",
-        "author": "Neal, Virginia USA"
+        "text": "There are no words that can do Villa V justice in all honesty. Paradise perhaps? I don't really want to write this review because I want to keep Villa V all to myself haha! The villa is more beautiful than words can describe... stunning location, a peaceful haven... utter perfection. The swimming pool, heated and utterly delicious with views to die for and a sunset your iPhone doesn't do justice. The grounds and gardens are equally spectacular. Inside the house is beyond stylish — I would love to meet someone who didn't want to live there, I don't think such a person exists! We actually had our wedding do at the villa having been married on the beach in Mlini and it has gone down in history as the best wedding ever. The truth is we didn't leave the villa much at all, because when you stay somewhere like this you don't want to waste a second away from it. See you next year! Love Lucy & Gray xxx",
+        "author": "Lucy & Gray, London, England"
       },
       "review2": {
-        "text": "Amazing, amazing, amazing! The home is truly a home away from home. It looks exactly as it does in the pictures. The house was spotless, and we could easily have spent our entire stay at the Villa and still had an incredible time. The view was breathtaking — we will absolutely revisit!",
+        "text": "Amazing amazing amazing!!!! The home is truly a home away from home. It looks exactly as it is on the pictures. The manager is friendly and very very helpful. The house was clean. We could easily have stayed our whole stay in the Villa and still have an amazing time. The view was breath taking!!! We will revisit again!",
         "author": "Gladys, England"
       },
       "review3": {
-        "text": "Villa V exceeded every expectation. The infinity pool, the views, the privacy — it is genuinely one of the most beautiful places I have ever stayed. Maria and her husband have created something truly special. We will be back.",
-        "author": "Charlotte, London UK"
+        "text": "This property is simply stunning. The house itself is a design masterpiece, but the outside of the back of the house is the true gem. It's as good as the pictures (or better) with incredible view of the sea, gorgeous infinity pool, cabana, large outdoor dining area with retractable shade, swing, etc. The location of the house is very convenient to the airport (15 min) and also for a day trip to Montenegro. However, you may not want to leave the house once you check-in, it is that stunning.",
+        "author": "Neal, Virginia, USA"
       },
       "review4": {
-        "text": "Maria is empathetic, accommodating and professional. I felt completely safe in Maria's communication, feedback, advice, tips, suggestions and final styling. We had a continuous dialogue while she was working which was appreciated. I love coming home to myself and also get many compliments on how nice it is here at home.",
-        "author": "Cia, Danderyd"
-      },
-      "review5": {
-        "text": "I have experienced great responsiveness from Maria. She guided me through my somewhat confused ideas and found products that matched well with what I wanted. Maria was knowledgeable, professional and inspiring.",
-        "author": "Mylaine, Södermalm"
-      },
-      "review6": {
-        "text": "So wonderful to get help from a real professional! After several years, my thoughts and ideas finally came down on paper, with pictures and sketches that made it possible to understand exactly how it would turn out. Much better than I could have wished for!",
-        "author": "Jenny, Stocksund"
-      },
-      "review7": {
-        "text": "We have received such great interior design help from Maria with arranging the furniture at home. She has an exceptional eye for what works, things that you can easily become completely blind to at home. She also comes with good tips on what you could renew. With her pleasant and accommodating manner, she is very pleasant to hire. We highly recommend her!",
-        "author": "Helen, Danderyd"
-      },
-      "review8": {
-        "text": "I can highly recommend Maria. She is very professional, has an incredible talent for seeing great solutions with existing furniture and is very good at finding furniture, lighting and interior design details that enhance the room.",
-        "author": "Berrin, Stocksund"
-      },
-      "review9": {
-        "text": "A thousand thanks to Maria who helped us come up with interior design ideas for several rooms spread over 3 floors. Maria came up with comprehensive solutions where we could easily click on links to see furniture. We were amazed that the costs didn't skyrocket — a good mix of nice choices. We kept in touch throughout the project.",
-        "author": "Marie-Louise, Enebyberg"
+        "text": "After making our reservation for Maria's home, we were expecting a nice house with a great view since the pictures on Airbnb are stunning. This said, they are nothing compared to the reality of the experience in this house. I've seen lots of beautiful homes but certainly not to the level of perfection of Maria's. The incredible location, less than 10 minutes from the airport but yet completely isolated from everything with no neighbors around. Just endless and beautiful views of the sea and green wild nature. Everything is beautifully designed and the quality is amazing. The beds are incredibly comfortable, better than any hotel. The pool is out of this world, and all the environment outside is a continuation of this perfection. Communication with Maria is easy, quick and efficient, and Vlaho who is the contact onsite is the best. If you're looking for a dream home for any type of relaxing vacation, Maria's home is for you.",
+        "author": "Benoit, New York, USA"
       }
     },
     "booking": {
@@ -331,6 +311,96 @@
       "label": "Interior Stories",
       "title": "The Blog",
       "subtitle": "Interiors, travel and timeless design, from my world to yours."
+    }
+  },
+  "testimonials": {
+    "hero": {
+      "label": "Kind Words",
+      "title": "Testimonials",
+      "subtitle": "Shared stories from our curated world."
+    },
+    "intro": {
+      "label": "Customer Reviews",
+      "heading": "Homes Made to Be Lived In",
+      "p1": "I have worked on many different interior design assignments and styled many homes for sale. I am most passionate about helping people elevate the homes where they actually live.",
+      "p2": "Many times I have been told after styling a home for sale — now I wish I had stayed here, it turned out so well! And it is great fun, but it is even more fun when that feeling comes when you actually stay there.",
+      "p3": "The article alongside is an interview with me in SvD, 2020. Below, you can read a selection of customer reviews from some of my previous assignments."
+    },
+    "article": {
+      "caption": "Article from SvD, 2020"
+    },
+    "reviews": [
+      {
+        "text": "Maria is empathetic, accommodating and professional. I felt completely safe in Maria's communication, feedback, advice, tips, suggestions and final styling. We had a continuous dialogue while she was working which was appreciated. I love coming home to myself and also get many compliments on how nice it is here at home.",
+        "author": "Cia, Danderyd"
+      },
+      {
+        "text": "I have experienced great responsiveness from Maria. She guided me through my somewhat confused ideas and found products that matched well with what I wanted. Maria was knowledgeable, professional and inspiring.",
+        "author": "Mylaine, Södermalm"
+      },
+      {
+        "text": "So wonderful to get help from a real professional! After several years, my thoughts and ideas finally came down on paper, with pictures and sketches that made it possible to understand exactly how it would turn out. Much better than I could have wished for!",
+        "author": "Jenny, Stocksund"
+      },
+      {
+        "text": "We have received such great interior design help from Maria with arranging the furniture at home. She has an exceptional eye for what works, things you can easily become completely blind to at home. She also comes with good tips on what you could renew. With her pleasant and accommodating manner, she is very pleasant to hire. We highly recommend her!",
+        "author": "Helen, Danderyd"
+      },
+      {
+        "text": "I can highly recommend Maria. She is very professional, has an incredible talent for seeing great solutions with existing furniture and is very good at finding furniture, lighting and interior design details that enhance the room.",
+        "author": "Berrin, Stocksund"
+      },
+      {
+        "text": "A thousand thanks to Maria who helped us come up with interior design ideas for several rooms spread over 3 floors. We have lived in the home for 10 years and had many ideas about how to change it as the children got older and our needs changed. Maria came up with comprehensive solutions where we could easily click on links to see furniture. We were amazed that the costs didn't skyrocket — a good mix of nice choices. We kept in touch with Maria throughout the project.",
+        "author": "Marie-Louise, Enebyberg"
+      }
+    ],
+    "cta": {
+      "heading": "Ready to begin your journey?",
+      "button": "Contact Me"
+    }
+  },
+  "contact": {
+    "hero": {
+      "label": "Let's Create Together",
+      "title": "Crafting Atmosphere &",
+      "titleAccent": "Timeless Living",
+      "intro": "Maria Capor founded Home by Nox with a mission to bridge the gap between architectural precision and warm, lived-in interiors. Based in Stockholm but inspired by beautiful homes and places around the world."
+    },
+    "studio": {
+      "heading": "The Studio",
+      "address": {
+        "label": "Stockholm Studio",
+        "value": "NOX Design AB, Lagman Linds Väg 4B, Stocksund"
+      },
+      "phone": {
+        "label": "Direct Line",
+        "value": "070-781 55 55"
+      },
+      "email": {
+        "label": "Enquiries",
+        "value": "mariacapor@homebynox.com"
+      }
+    },
+    "form": {
+      "heading": "Let's Connect",
+      "name": {
+        "label": "Full Name",
+        "placeholder": "Your Name"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "hello@example.com"
+      },
+      "message": {
+        "label": "Your Vision",
+        "placeholder": "Tell me more..."
+      },
+      "submit": "Send Enquiry"
+    },
+    "quote": {
+      "text": "I am going to make everything around me beautiful — that will be my life.",
+      "author": "Elsie de Wolfe"
     }
   }
 }

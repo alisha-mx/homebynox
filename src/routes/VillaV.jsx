@@ -51,7 +51,7 @@ const detailIcons = {
 }
 
 function ReviewCarousel({ t }) {
-  const reviews = ['review1', 'review2', 'review3', 'review4', 'review5', 'review6', 'review7', 'review8', 'review9']
+  const reviews = ['review2', 'review3', 'review1', 'review4']
   const [current, setCurrent] = useState(0)
   const prev = () => setCurrent(i => (i - 1 + reviews.length) % reviews.length)
   const next = () => setCurrent(i => (i + 1) % reviews.length)
